@@ -1,0 +1,49 @@
+body
+{
+  text-align: center;
+  background: #99a4ff;
+}
+
+h1
+{
+  background: #99a4ff;
+}
+
+#Coding
+{
+  font-size: 32px;
+}
+
+#CodingDesc
+{
+  font-size: 24px;
+}
+
+#About
+{
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+
+.menu
+{
+  font-size: 20px;
+  list-style: none;
+  position: absolute;
+  z-index: 10;
+  left: 30px;
+}
+
+.link
+{
+  float: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+
+a
+{
+  color: rgb(43, 43, 43);
+}
